@@ -46,3 +46,8 @@ After that you will something like that:
 
     Note that the development build is not optimized.
     To create a production build, run npm run build.
+
+## 2 - Adding new packages
+
+In this example we install vuex:  
+>npm install vuex --save
