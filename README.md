@@ -1,17 +1,14 @@
-Index  
-=====  
+# Index
 
 0 - Requeriments  
 1 - How to start VUE project  
 
-0 - Requeriments  
-================  
+## 0 - Requeriments
 
 At the time of write this file I will use this versions:  
-   https://nodejs.org/dist/v14.16.1/node-v14.16.1-x64.msi  
-
-1 - How to start VUE project  
-============================  
+><https://nodejs.org/dist/v14.16.1/node-v14.16.1-x64.msi>  
+  
+## 1 - How to start VUE project
 
 Go to the folder where you want to create your project and write:
     npm install -g @vue/cli
@@ -49,4 +46,3 @@ After that you will something like that:
 
     Note that the development build is not optimized.
     To create a production build, run npm run build.
-
